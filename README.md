@@ -8,6 +8,8 @@
 
 </div>
 
+**This programmer agrees with [Hacker Manifesto](https://phrack.org/issues/7/3#article).**
+
 ---
 
 <div align="center">
@@ -28,8 +30,6 @@ const blockchainDeveloper = {
     eywa: "Connected to the blockchain ecosystem worldwide ⛓️"
 };
 ```
-
-This programmer agrees with [Hacker Manifesto](https://phrack.org/issues/7/3#article).
 
 ---
 
