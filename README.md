@@ -3,7 +3,7 @@
 # 🌿 Welcome to Pandora 🌿
 ### *"I See You"* - A Developer's Journey
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Architect;Open+Source+Enthusiast;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Architect;Blockchain+Enthusiast;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
 
@@ -33,12 +33,11 @@ const developer = {
 ## 🔮 Skills & Technologies - *Bioluminescent Arsenal*
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00D9FF&labelColor=0B1E2D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=00D9FF&labelColor=0B1E2D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=00D9FF&labelColor=0B1E2D)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=00D9FF&labelColor=0B1E2D)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=00D9FF&labelColor=0B1E2D)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00D9FF&labelColor=0B1E2D)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00D9FF&labelColor=0B1E2D)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00D9FF&labelColor=0B1E2D)
 
 ### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00D9FF&labelColor=0B1E2D)
