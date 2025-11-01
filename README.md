@@ -46,7 +46,7 @@ const blockchainDeveloper = {
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=00D9FF&labelColor=0B1E2D)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=00D9FF&labelColor=0B1E2D)
 
-### � Languages
+### 💻 Languages
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00D9FF&labelColor=0B1E2D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=00D9FF&labelColor=0B1E2D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=00D9FF&labelColor=0B1E2D)
