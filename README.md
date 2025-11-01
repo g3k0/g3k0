@@ -139,7 +139,7 @@ const blockchainDeveloper = {
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikulu-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="🌐" width="25" height="25" /> Connect with Me - *Join the Network*
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="📡" width="25" height="25" /> Connect with Me - *Join the Network*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0B1E2D)](https://github.com/g3k0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0B1E2D)](https://www.linkedin.com/in/christianpalazzo/)
@@ -152,7 +152,7 @@ const blockchainDeveloper = {
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Dizzy.png" alt="💫" width="20" height="20" /> *"The way of water has no beginning and no end"*
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="🌠" width="20" height="20" /> *"The way of water has no beginning and no end"*
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="🌊" width="20" height="20" /> *Keep flowing, keep coding, keep growing* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="🌊" width="20" height="20" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=g3k0&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
