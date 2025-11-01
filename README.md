@@ -1,9 +1,10 @@
 <div align="center">
 
 # 🌿 Welcome to Pandora 🌿
-### *"I See You"* - A Developer's Journey
+### *"I See You"* - A Blockchain Developer's Journey
+#### ⛓️ *Building the Decentralized Future with Smart Contracts & Web3* ⛓️
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Architect;Blockchain+Enthusiast;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Blockchain+Developer;Smart+Contract+Architect;Web3+Builder;DeFi+Enthusiast;Always+Learning+⛓️" alt="Typing SVG" />
 
 </div>
 
@@ -16,13 +17,15 @@
 </div>
 
 ```typescript
-const developer = {
+const blockchainDeveloper = {
     name: "g3k0",
     location: "Earth 🌍",
-    dream: "Building the future, one commit at a time",
-    currentFocus: "Exploring new technologies like the Na'vi explore Pandora",
-    mantra: "Code with purpose, learn with passion",
-    eywa: "Connected to the network of developers worldwide"
+    specialization: "Blockchain & Smart Contract Development",
+    dream: "Building the decentralized future, one block at a time",
+    currentFocus: "Crafting secure smart contracts and DeFi protocols",
+    expertise: ["Solidity", "Hardhat", "Foundry", "Web3.js", "DeFi"],
+    mantra: "Code with purpose, build with security, innovate with Web3",
+    eywa: "Connected to the blockchain ecosystem worldwide ⛓️"
 };
 ```
 
@@ -32,14 +35,7 @@ const developer = {
 
 ## 🔮 Skills & Technologies - *Bioluminescent Arsenal*
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=00D9FF&labelColor=0B1E2D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=00D9FF&labelColor=0B1E2D)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=00D9FF&labelColor=0B1E2D)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00D9FF&labelColor=0B1E2D)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00D9FF&labelColor=0B1E2D)
-
-### ⛓️ Blockchain & Web3
+### ⛓️ Blockchain & Web3 - *Primary Expertise*
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=00D9FF&labelColor=0B1E2D)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=00D9FF&labelColor=0B1E2D)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=00D9FF&labelColor=0B1E2D)
@@ -50,7 +46,14 @@ const developer = {
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=00D9FF&labelColor=0B1E2D)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=00D9FF&labelColor=0B1E2D)
 
-### 🚀 Frameworks & Libraries
+### � Languages
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00D9FF&labelColor=0B1E2D)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=00D9FF&labelColor=0B1E2D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=00D9FF&labelColor=0B1E2D)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00D9FF&labelColor=0B1E2D)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=00D9FF&labelColor=0B1E2D)
+
+### �🚀 Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=00D9FF&labelColor=0B1E2D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00D9FF&labelColor=0B1E2D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=00D9FF&labelColor=0B1E2D)
