@@ -4,7 +4,7 @@
 ### *"I See You"* - A Blockchain Developer's Journey
 #### ⛓️ *Building the Decentralized Future with Smart Contracts & Web3* ⛓️
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Blockchain+Developer;Smart+Contract+Architect;Web3+Builder;DeFi+Enthusiast;Always+Learning+⛓️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Architect;Open+Source+Enthusiast;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
 
