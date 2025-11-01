@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌿 Welcome to Pandora 🌿
+# � Welcome to Pandora �
 ### *"I See You"* - A Blockchain Developer's Journey
-#### ⛓️ *Building the Decentralized Future with Smart Contracts & Web3* ⛓️
+#### 🔗 *Building the Decentralized Future with Smart Contracts & Web3* 🔗
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Blockchain+Developer;Smart+Contract+Architect;Web3+Builder;DeFi+Enthusiast;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Blockchain+Developer;Smart+Contract+Architect;Web3+Builder;DeFi+Enthusiast;Always+Learning+🌱" alt="Typing SVG" />
 
 </div>
 
@@ -27,7 +27,7 @@ const blockchainDeveloper = {
     currentFocus: "Crafting secure smart contracts and DeFi protocols",
     expertise: ["Solidity", "Hardhat", "Foundry", "Web3.js", "DeFi"],
     mantra: "Code with purpose, build with security, innovate with Web3",
-    eywa: "Connected to the blockchain ecosystem worldwide ⛓️"
+    eywa: "Connected to the blockchain ecosystem worldwide 🔗"
 };
 ```
 
@@ -37,7 +37,7 @@ const blockchainDeveloper = {
 
 ## 🔮 Skills & Technologies - *Bioluminescent Arsenal*
 
-### ⛓️ Blockchain & Web3 - *Primary Expertise*
+### 🔗 Blockchain & Web3 - *Primary Expertise*
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=00D9FF&labelColor=0B1E2D)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=00D9FF&labelColor=0B1E2D)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=00D9FF&labelColor=0B1E2D)
@@ -53,7 +53,7 @@ const blockchainDeveloper = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=00D9FF&labelColor=0B1E2D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=00D9FF&labelColor=0B1E2D)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00D9FF&labelColor=0B1E2D)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=00D9FF&labelColor=0B1E2D)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=00D9FF&labelColor=0B1E2D)
 
 ### 🚀 Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=00D9FF&labelColor=0B1E2D)
@@ -64,7 +64,7 @@ const blockchainDeveloper = {
 
 ### 🏗️ Build Systems
 ![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=00D9FF&labelColor=0B1E2D)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=00D9FF&labelColor=0B1E2D)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=vercel&logoColor=00D9FF&labelColor=0B1E2D)
 
 
 ### 🧪 Testing
@@ -91,8 +91,8 @@ const blockchainDeveloper = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00D9FF&labelColor=0B1E2D)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=00D9FF&labelColor=0B1E2D)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=00D9FF&labelColor=0B1E2D)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=00D9FF&labelColor=0B1E2D)
-![Unix Terminal](https://img.shields.io/badge/Unix_Terminal-1E1E1E?style=for-the-badge&logo=terminal&logoColor=00D9FF&labelColor=0B1E2D)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0B1E2D)
+![Terminal](https://img.shields.io/badge/Terminal-1E1E1E?style=for-the-badge&logo=gnometerminal&logoColor=00D9FF&labelColor=0B1E2D)
 
 </div>
 
@@ -164,12 +164,12 @@ const blockchainDeveloper = {
 <div align="center">
 
 ```
-    🌿🌿🌿🌿🌿
-   🌿         🌿
-  🌿  I SEE   🌿
-  🌿   YOU    🌿
-   🌿         🌿
-    🌿🌿🌿🌿🌿
+    �����
+   �         �
+  �  I SEE   �
+  �   YOU    �
+   �         �
+    �����
 ```
 
 *Made with 💙 in the spirit of Pandora*
