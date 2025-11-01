@@ -102,7 +102,7 @@ const blockchainDeveloper = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=g3k0&show_icons=true&theme=transparent&title_color=00D9FF&text_color=00D9FF&icon_color=00D9FF&border_color=00D9FF&bg_color=0B1E2D" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?theme=transparent&user=g3k0&border=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=00D9FF&dates=00D9FF&sideNums=00D9FF&background=0B1E2D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?theme=transparent&user=g3k0" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3k0&layout=compact&theme=transparent&title_color=00D9FF&text_color=00D9FF&border_color=00D9FF&bg_color=0B1E2D" alt="Top Languages" />
 
