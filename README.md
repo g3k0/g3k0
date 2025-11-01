@@ -29,7 +29,7 @@ const blockchainDeveloper = {
 };
 ```
 
-This programmer agrees with [Hacker Manifesto](https://www.askapache.com/hacking/hacker-manifesto/).
+This programmer agrees with [Hacker Manifesto](https://phrack.org/issues/7/3#article).
 
 ---
 
