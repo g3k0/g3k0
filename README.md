@@ -119,21 +119,6 @@ const blockchainDeveloper = {
 
 <div align="center">
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0B1E2D)](https://www.linkedin.com/in/christianpalazzo/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=00D9FF&labelColor=0B1E2D)](https://discord.gg/o_o0092)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0B1E2D)](mailto:palazzochristian@yahoo.it)
-
-</div>
-
----
-
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="🌠" width="20" height="20" /> *"The way of water has no beginning and no end"*
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="🌊" width="20" height="20" /> *Keep flowing, keep coding, keep growing* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="🌊" width="20" height="20" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=g3k0&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
