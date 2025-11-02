@@ -34,7 +34,7 @@ const blockchainDeveloper = {
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="🔮" width="25" height="25" /> Skills & Technologies - *Bioluminescent Arsenal*
+## Skills & Technologies
 
 ### Blockchain & Web3
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=00D9FF&labelColor=0B1E2D)
