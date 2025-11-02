@@ -119,9 +119,8 @@ const blockchainDeveloper = {
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="📡" width="25" height="25" /> Connect with Me - *Join the Network*
+## Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0B1E2D)](https://github.com/g3k0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0B1E2D)](https://www.linkedin.com/in/christianpalazzo/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=00D9FF&labelColor=0B1E2D)](https://discord.gg/o_o0092)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0B1E2D)](mailto:palazzochristian@yahoo.it)
